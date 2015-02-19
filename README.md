@@ -1,4 +1,4 @@
-# social2
+# sails_auth
 
 # How to configure partials and layouts for Handlebars in Sails.js?
 a [stackoverflow](http://stackoverflow.com/questions/19810671/how-to-configure-partials-and-layouts-for-handlebars-in-sails-js)
